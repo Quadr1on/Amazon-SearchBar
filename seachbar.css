@@ -48,7 +48,7 @@ body{
     margin: none;
     height: 37px;
     border: none;
-    max-width: 40vw;
+    min-width: 40vw;
     font-size: 1rem;
 }
 
